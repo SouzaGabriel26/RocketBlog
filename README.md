@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Landing Page desenvolvida para aprendizado próprio:
 
-Live Preview: 
+Live Preview: https://souzagabriel26.github.io/RocketBlog/
 
 ## 🎨 Inspiração:
 
